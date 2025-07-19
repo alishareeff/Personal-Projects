@@ -3,9 +3,6 @@ import pygame, sys, random
 from pygame import mixer
 
 
-
-
-
 def ball_animation():
     global ball_speed_y,ball_speed_x
     # controls balls speed
